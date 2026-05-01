@@ -35,12 +35,12 @@ I turn data into decisions and ideas into impact. I love solving real-world prob
 
 ## 📊 Analytics & Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yashrajpatil01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrajpatil01&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iYashrajPatil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iYashrajPatil&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashrajpatil01&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iYashrajPatil&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -49,5 +49,5 @@ I turn data into decisions and ideas into impact. I love solving real-world prob
 <p align="left">
   <a href="https://linkedin.com/in/iYashrajPatil"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://huggingface.co/iYashrajPatil"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow?style=for-the-badge" /></a>
-  <a href="mailto:yashrajpatil01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:patilyashraj893@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
